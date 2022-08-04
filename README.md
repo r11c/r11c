@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @r11c
-- 👀 I’m interested in: lua coding
-- 🌱 I’m currently learning a lot of stuff
-- 💞️ I’m looking to collaborate on... uhhhh...
-- 📫 How to reach me: discord
+r1 here, mainly a lua-u programmer, sufficient enough in java, js, c+, py, and html + css.
 
 <!---
 r11c/r11c is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
